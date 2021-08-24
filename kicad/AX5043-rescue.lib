@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# AX5043-rescue_+3V3-main-eagle-import
+# +3V3-main-eagle-import
 #
-DEF AX5043-rescue_+3V3-main-eagle-import #+3V3 0 40 Y Y 1 L P
+DEF +3V3-main-eagle-import #+3V3 0 40 Y Y 1 L P
 F0 "#+3V3" 0 0 50 H I C CNN
-F1 "AX5043-rescue_+3V3-main-eagle-import" -100 -200 59 V V L BNN
+F1 "+3V3-main-eagle-import" -100 -200 59 V V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -15,11 +15,11 @@ X +3V3 1 0 -100 100 U 0 0 1 0 W
 ENDDRAW
 ENDDEF
 #
-# AX5043-rescue_ASE-main-eagle-import
+# ASE-main-eagle-import
 #
-DEF AX5043-rescue_ASE-main-eagle-import X 0 40 Y Y 1 L N
+DEF ASE-main-eagle-import X 0 40 Y Y 1 L N
 F0 "X" -300 325 59 H V L BNN
-F1 "AX5043-rescue_ASE-main-eagle-import" -300 -400 59 H V L BNN
+F1 "ASE-main-eagle-import" -300 -400 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -56,11 +56,11 @@ X VDD 4 -500 200 200 R 50 0 1 0 W
 ENDDRAW
 ENDDEF
 #
-# AX5043-rescue_C-EUC0603-main-eagle-import
+# C-EUC0603-main-eagle-import
 #
-DEF AX5043-rescue_C-EUC0603-main-eagle-import C 0 40 Y Y 1 L N
+DEF C-EUC0603-main-eagle-import C 0 40 Y Y 1 L N
 F0 "C" 60 15 59 H V L BNN
-F1 "AX5043-rescue_C-EUC0603-main-eagle-import" 60 -185 59 H V L BNN
+F1 "C-EUC0603-main-eagle-import" 60 -185 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -73,11 +73,11 @@ X 2 2 0 -200 100 U 0 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# AX5043-rescue_DINA4_L-main-eagle-import
+# DINA4_L-main-eagle-import
 #
-DEF AX5043-rescue_DINA4_L-main-eagle-import #FRAME 0 40 Y Y 2 L N
+DEF DINA4_L-main-eagle-import #FRAME 0 40 Y Y 2 L N
 F0 "#FRAME" 0 0 50 H I C CNN
-F1 "AX5043-rescue_DINA4_L-main-eagle-import" 0 0 50 H I C CNN
+F1 "DINA4_L-main-eagle-import" 0 0 50 H I C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -111,11 +111,11 @@ P 2 2 0 0 4000 1400 4000 900 N
 ENDDRAW
 ENDDEF
 #
-# AX5043-rescue_GND-main-eagle-import
+# GND-main-eagle-import
 #
-DEF AX5043-rescue_GND-main-eagle-import #GND 0 40 Y Y 1 L P
+DEF GND-main-eagle-import #GND 0 40 Y Y 1 L P
 F0 "#GND" 0 0 50 H I C CNN
-F1 "AX5043-rescue_GND-main-eagle-import" -100 -100 59 H V L BNN
+F1 "GND-main-eagle-import" -100 -100 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -124,11 +124,11 @@ X GND 1 0 100 100 D 0 0 1 0 W
 ENDDRAW
 ENDDEF
 #
-# AX5043-rescue_PINHD-1X10-main-eagle-import
+# PINHD-1X10-main-eagle-import
 #
-DEF AX5043-rescue_PINHD-1X10-main-eagle-import JP 0 40 Y Y 1 L N
+DEF PINHD-1X10-main-eagle-import JP 0 40 Y Y 1 L N
 F0 "JP" -250 525 59 H V L BNN
-F1 "AX5043-rescue_PINHD-1X10-main-eagle-import" -250 -700 59 H V L BNN
+F1 "PINHD-1X10-main-eagle-import" -250 -700 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -149,11 +149,11 @@ X 9 9 -100 -400 100 R 50 0 1 0 P I
 ENDDRAW
 ENDDEF
 #
-# AX5043-rescue_R-EU_R0603-main-eagle-import
+# R-EU_R0603-main-eagle-import
 #
-DEF AX5043-rescue_R-EU_R0603-main-eagle-import R 0 40 Y Y 1 L N
+DEF R-EU_R0603-main-eagle-import R 0 40 Y Y 1 L N
 F0 "R" -150 59 59 H V L BNN
-F1 "AX5043-rescue_R-EU_R0603-main-eagle-import" -150 -130 59 H V L BNN
+F1 "R-EU_R0603-main-eagle-import" -150 -130 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -166,11 +166,11 @@ X 2 2 200 0 100 L 0 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# AX5043-rescue_SMA-142-0711-821_826-main-eagle-import
+# SMA-142-0711-821_826-main-eagle-import
 #
-DEF AX5043-rescue_SMA-142-0711-821_826-main-eagle-import X 0 40 Y Y 1 L N
+DEF SMA-142-0711-821_826-main-eagle-import X 0 40 Y Y 1 L N
 F0 "X" -100 130 59 H V L BNN
-F1 "AX5043-rescue_SMA-142-0711-821_826-main-eagle-import" -100 -200 59 H V L BNN
+F1 "SMA-142-0711-821_826-main-eagle-import" -100 -200 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -190,11 +190,11 @@ X 2 G@4 100 -100 100 L 0 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# AX5043-rescue_U-ONSEMI-AX5043-main-eagle-import
+# U-ONSEMI-AX5043-main-eagle-import
 #
-DEF AX5043-rescue_U-ONSEMI-AX5043-main-eagle-import U 0 40 Y Y 1 L N
+DEF U-ONSEMI-AX5043-main-eagle-import U 0 40 Y Y 1 L N
 F0 "U" 300 -2000 59 H V L BNN
-F1 "AX5043-rescue_U-ONSEMI-AX5043-main-eagle-import" 300 -2100 59 H V L BNN
+F1 "U-ONSEMI-AX5043-main-eagle-import" 300 -2100 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
