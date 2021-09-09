@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name main-eagle-import)(type Legacy)(uri ${KIPRJMOD}/AX5043-eagle-import.lib)(options "")(descr ""))
-  (lib (name AX5043-rescue)(type Legacy)(uri ${KIPRJMOD}/AX5043-rescue.lib)(options "")(descr ""))
+  (lib (name AX5043)(type Legacy)(uri ${KIPRJMOD}/AX5043.lib)(options "")(descr ""))
 )
