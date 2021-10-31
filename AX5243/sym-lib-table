@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AX5043)(type Legacy)(uri C:/Users/SP5WWP/Desktop/kicad/AX5043.lib)(options "")(descr ""))
+  (lib (name ax5243_eval-rescue)(type Legacy)(uri ${KIPRJMOD}/ax5243_eval-rescue.lib)(options "")(descr ""))
+)

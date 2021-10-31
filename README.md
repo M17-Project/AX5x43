@@ -1,6 +1,6 @@
-# AX5043
-Test board for the ON Semiconductor AX5043 RF transceiver chip.
-#### The main purpose of this board is to test AX5043's M17 support.
+# AX5x43
+Test boards for the ON Semiconductor AX5043 and AX5243 RF transceiver chips.
+#### The main purpose of this board is to test AX5x43's M17 support.
 
 ### Main differences between our board and other available out there
 There are two major differences:
