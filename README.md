@@ -9,5 +9,5 @@ There are two major differences:
 
 Note: There are no additional operational amplifiers nor filters in our design. Both modulator input and output are available at the pin header. ADC inputs can work in both differential and single-ended modes. Refer to the application note [AND9313/D](https://www.onsemi.com/pub/collateral/and9313-d.pdf).
 
-### PCB
+### AX5043 PCB
 ![PCB](https://user-images.githubusercontent.com/44336093/145544711-7f87339f-ce2f-40c3-93e1-8d97b13a539c.png)
