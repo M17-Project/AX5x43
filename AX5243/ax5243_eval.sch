@@ -254,7 +254,7 @@ F 1 "12.000MHz" H 3825 1500 59  0000 L BNN
 F 2 "AX5043:ECS-TXO-2520" H 4125 1900 50  0001 C CNN
 F 3 "" H 4125 1900 50  0001 C CNN
 	1    4125 1900
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C1
@@ -265,7 +265,7 @@ F 1 "10p" H 4885 1715 59  0000 L BNN
 F 2 "AX5043:C0603" H 4825 1900 50  0001 C CNN
 F 3 "" H 4825 1900 50  0001 C CNN
 	1    4825 1900
-	0    -1   -1   0   
+	0    -1   -1   0
 $EndComp
 $Comp
 L ax5243_eval-rescue:R-EU_R0603-AX5043 R1
@@ -276,7 +276,7 @@ F 1 "100nH" H 3750 4620 59  0000 L BNN
 F 2 "AX5043:R0603" H 3900 4750 50  0001 C CNN
 F 3 "" H 3900 4750 50  0001 C CNN
 	1    3900 4750
-	0    -1   -1   0   
+	0    -1   -1   0
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C2
@@ -287,7 +287,7 @@ F 1 "6.8p" H 5185 1915 59  0000 L BNN
 F 2 "AX5043:C0603" H 5125 2100 50  0001 C CNN
 F 3 "" H 5125 2100 50  0001 C CNN
 	1    5125 2100
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND01
@@ -298,7 +298,7 @@ F 1 "GND" H 3425 2300 59  0000 L BNN
 F 2 "" H 3525 2400 50  0001 C CNN
 F 3 "" H 3525 2400 50  0001 C CNN
 	1    3525 2400
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:R-EU_R0603-AX5043 R2
@@ -309,7 +309,7 @@ F 1 "100nH" H 3750 3820 59  0000 L BNN
 F 2 "AX5043:R0603" H 3900 3950 50  0001 C CNN
 F 3 "" H 3900 3950 50  0001 C CNN
 	1    3900 3950
-	0    -1   -1   0   
+	0    -1   -1   0
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND05
@@ -320,7 +320,7 @@ F 1 "GND" H 3800 3450 59  0000 L BNN
 F 2 "" H 3900 3550 50  0001 C CNN
 F 3 "" H 3900 3550 50  0001 C CNN
 	1    3900 3550
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND06
@@ -331,7 +331,7 @@ F 1 "GND" H 3800 5050 59  0000 L BNN
 F 2 "" H 3900 5150 50  0001 C CNN
 F 3 "" H 3900 5150 50  0001 C CNN
 	1    3900 5150
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C3
@@ -342,7 +342,7 @@ F 1 "100p" H 6810 3865 59  0000 L BNN
 F 2 "AX5043:C0603" H 6750 4050 50  0001 C CNN
 F 3 "" H 6750 4050 50  0001 C CNN
 	1    6750 4050
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C4
@@ -353,7 +353,7 @@ F 1 "100p" H 7235 3865 59  0000 L BNN
 F 2 "AX5043:C0603" H 7175 4050 50  0001 C CNN
 F 3 "" H 7175 4050 50  0001 C CNN
 	1    7175 4050
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND07
@@ -364,7 +364,7 @@ F 1 "GND" H 5025 2300 59  0000 L BNN
 F 2 "" H 5125 2400 50  0001 C CNN
 F 3 "" H 5125 2400 50  0001 C CNN
 	1    5125 2400
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:SMA-142-0711-821_826-AX5043 X2
@@ -375,7 +375,7 @@ F 1 "SMA" H 1500 4250 59  0000 L BNN
 F 2 "AX5043:J502-ND-142-0711-821_826" H 1600 4450 50  0001 C CNN
 F 3 "" H 1600 4450 50  0001 C CNN
 	1    1600 4450
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C5
@@ -386,7 +386,7 @@ F 1 "4.3p" H 3660 4065 59  0000 L BNN
 F 2 "AX5043:C0603" H 3600 4250 50  0001 C CNN
 F 3 "" H 3600 4250 50  0001 C CNN
 	1    3600 4250
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C6
@@ -397,7 +397,7 @@ F 1 "4.3p" H 3660 4265 59  0000 L BNN
 F 2 "AX5043:C0603" H 3600 4450 50  0001 C CNN
 F 3 "" H 3600 4450 50  0001 C CNN
 	1    3600 4450
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 $Comp
 L ax5243_eval-rescue:R-EU_R0603-AX5043 R3
@@ -408,7 +408,7 @@ F 1 "43nH" H 2950 4120 59  0000 L BNN
 F 2 "AX5043:R0603" H 3100 4250 50  0001 C CNN
 F 3 "" H 3100 4250 50  0001 C CNN
 	1    3100 4250
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L ax5243_eval-rescue:R-EU_R0603-AX5043 R4
@@ -419,7 +419,7 @@ F 1 "43nH" H 2950 4320 59  0000 L BNN
 F 2 "AX5043:R0603" H 3100 4450 50  0001 C CNN
 F 3 "" H 3100 4450 50  0001 C CNN
 	1    3100 4450
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C7
@@ -430,7 +430,7 @@ F 1 "11p" H 2860 3765 59  0000 L BNN
 F 2 "AX5043:C0603" H 2800 3950 50  0001 C CNN
 F 3 "" H 2800 3950 50  0001 C CNN
 	1    2800 3950
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:R-EU_R0603-AX5043 R5
@@ -441,7 +441,7 @@ F 1 "27nH" H 2350 4120 59  0000 L BNN
 F 2 "AX5043:R0603" H 2500 4250 50  0001 C CNN
 F 3 "" H 2500 4250 50  0001 C CNN
 	1    2500 4250
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L ax5243_eval-rescue:R-EU_R0603-AX5043 R6
@@ -452,7 +452,7 @@ F 1 "27nH" H 2350 4620 59  0000 L BNN
 F 2 "AX5043:R0603" H 2500 4750 50  0001 C CNN
 F 3 "" H 2500 4750 50  0001 C CNN
 	1    2500 4750
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C8
@@ -463,7 +463,7 @@ F 1 "5.6p" H 2860 4565 59  0000 L BNN
 F 2 "AX5043:C0603" H 2800 4750 50  0001 C CNN
 F 3 "" H 2800 4750 50  0001 C CNN
 	1    2800 4750
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND08
@@ -474,7 +474,7 @@ F 1 "GND" H 2700 3450 59  0000 L BNN
 F 2 "" H 2800 3550 50  0001 C CNN
 F 3 "" H 2800 3550 50  0001 C CNN
 	1    2800 3550
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND09
@@ -485,7 +485,7 @@ F 1 "GND" H 2700 5050 59  0000 L BNN
 F 2 "" H 2800 5150 50  0001 C CNN
 F 3 "" H 2800 5150 50  0001 C CNN
 	1    2800 5150
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND010
@@ -496,7 +496,7 @@ F 1 "GND" H 2400 5050 59  0000 L BNN
 F 2 "" H 2500 5150 50  0001 C CNN
 F 3 "" H 2500 5150 50  0001 C CNN
 	1    2500 5150
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C9
@@ -507,7 +507,7 @@ F 1 "5.1p" H 2160 4265 59  0000 L BNN
 F 2 "AX5043:C0603" H 2100 4450 50  0001 C CNN
 F 3 "" H 2100 4450 50  0001 C CNN
 	1    2100 4450
-	0    -1   -1   0   
+	0    -1   -1   0
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND011
@@ -518,7 +518,7 @@ F 1 "GND" H 1800 5050 59  0000 L BNN
 F 2 "" H 1900 5150 50  0001 C CNN
 F 3 "" H 1900 5150 50  0001 C CNN
 	1    1900 5150
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:R-EU_R0603-AX5043 R7
@@ -529,7 +529,7 @@ F 1 "BEAD" H 2975 1070 59  0000 L BNN
 F 2 "AX5043:R0603" H 3125 1200 50  0001 C CNN
 F 3 "" H 3125 1200 50  0001 C CNN
 	1    3125 1200
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C10
@@ -540,7 +540,7 @@ F 1 "10n" H 3885 1015 59  0000 L BNN
 F 2 "AX5043:C0603" H 3825 1200 50  0001 C CNN
 F 3 "" H 3825 1200 50  0001 C CNN
 	1    3825 1200
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND012
@@ -551,7 +551,7 @@ F 1 "GND" H 3925 1300 59  0000 L BNN
 F 2 "" H 4025 1400 50  0001 C CNN
 F 3 "" H 4025 1400 50  0001 C CNN
 	1    4025 1400
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C11
@@ -562,7 +562,7 @@ F 1 "100n" H 2885 1215 59  0000 L BNN
 F 2 "AX5043:C0603" H 2825 1400 50  0001 C CNN
 F 3 "" H 2825 1400 50  0001 C CNN
 	1    2825 1400
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND013
@@ -573,7 +573,7 @@ F 1 "GND" H 2725 1700 59  0000 L BNN
 F 2 "" H 2825 1800 50  0001 C CNN
 F 3 "" H 2825 1800 50  0001 C CNN
 	1    2825 1800
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:R-EU_R0603-AX5043 R8
@@ -584,7 +584,7 @@ F 1 "BEAD" H 7450 4670 59  0000 L BNN
 F 2 "AX5043:R0603" H 7600 4800 50  0001 C CNN
 F 3 "" H 7600 4800 50  0001 C CNN
 	1    7600 4800
-	0    -1   1    0   
+	0    -1   1    0
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C12
@@ -595,7 +595,7 @@ F 1 "10n" H 7660 3865 59  0000 L BNN
 F 2 "AX5043:C0603" H 7600 4050 50  0001 C CNN
 F 3 "" H 7600 4050 50  0001 C CNN
 	1    7600 4050
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND014
@@ -606,7 +606,7 @@ F 1 "GND" H 7500 3700 59  0000 L BNN
 F 2 "" H 7600 3800 50  0001 C CNN
 F 3 "" H 7600 3800 50  0001 C CNN
 	1    7600 3800
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L ax5243_eval-rescue:+3V3-AX5043 #+3V01
@@ -617,7 +617,7 @@ F 1 "+3V3" V 7700 4900 59  0000 L BNN
 F 2 "" H 7800 5100 50  0001 C CNN
 F 3 "" H 7800 5100 50  0001 C CNN
 	1    7800 5100
-	0    1    -1   0   
+	0    1    -1   0
 $EndComp
 $Comp
 L ax5243_eval-rescue:+3V3-AX5043 #+3V02
@@ -628,7 +628,7 @@ F 1 "+3V3" V 2725 800 59  0000 L BNN
 F 2 "" H 2825 1000 50  0001 C CNN
 F 3 "" H 2825 1000 50  0001 C CNN
 	1    2825 1000
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C13
@@ -639,7 +639,7 @@ F 1 "100n" H 7660 5215 59  0000 L BNN
 F 2 "AX5043:C0603" H 7600 5400 50  0001 C CNN
 F 3 "" H 7600 5400 50  0001 C CNN
 	1    7600 5400
-	-1   0    0    -1  
+	-1   0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND015
@@ -650,18 +650,18 @@ F 1 "GND" H 7500 5800 59  0000 L BNN
 F 2 "" H 7600 5900 50  0001 C CNN
 F 3 "" H 7600 5900 50  0001 C CNN
 	1    7600 5900
-	-1   0    0    -1  
+	-1   0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:R-EU_R0603-AX5043 R9
 U 1 1 4584D8AF
 P 5025 5100
 F 0 "R9" H 4875 5159 59  0000 L BNN
-F 1 "10nH" H 5075 5170 59  0000 L BNN
+F 1 "6.8nH" H 5075 5170 59  0000 L BNN
 F 2 "AX5043:R0603" H 5025 5100 50  0001 C CNN
 F 3 "" H 5025 5100 50  0001 C CNN
 	1    5025 5100
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C14
@@ -672,7 +672,7 @@ F 1 "39p" H 4585 5715 59  0000 L BNN
 F 2 "AX5043:C0603" H 4525 5900 50  0001 C CNN
 F 3 "" H 4525 5900 50  0001 C CNN
 	1    4525 5900
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:R-EU_R0603-AX5043 R10
@@ -683,7 +683,7 @@ F 1 "12k" H 4075 5570 59  0000 L BNN
 F 2 "AX5043:R0603" H 4225 5700 50  0001 C CNN
 F 3 "" H 4225 5700 50  0001 C CNN
 	1    4225 5700
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 $Comp
 L ax5243_eval-rescue:C-EUC0603-AX5043 C15
@@ -694,7 +694,7 @@ F 1 "10n" H 4285 5915 59  0000 L BNN
 F 2 "AX5043:C0603" H 4225 6100 50  0001 C CNN
 F 3 "" H 4225 6100 50  0001 C CNN
 	1    4225 6100
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND016
@@ -705,7 +705,7 @@ F 1 "GND" H 4125 6500 59  0000 L BNN
 F 2 "" H 4225 6600 50  0001 C CNN
 F 3 "" H 4225 6600 50  0001 C CNN
 	1    4225 6600
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND017
@@ -716,7 +716,7 @@ F 1 "GND" H 4425 6500 59  0000 L BNN
 F 2 "" H 4525 6600 50  0001 C CNN
 F 3 "" H 4525 6600 50  0001 C CNN
 	1    4525 6600
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:DINA4_L-AX5043 #FRAME1
@@ -727,7 +727,7 @@ F 1 "DINA4_L" H 900 7400 50  0001 C CNN
 F 2 "" H 900 7400 50  0001 C CNN
 F 3 "" H 900 7400 50  0001 C CNN
 	1    900  7400
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:PINHD-1X10-AX5043 JP1
@@ -738,7 +738,7 @@ F 1 "PINHD-1X10" H 9575 2600 59  0000 L BNN
 F 2 "AX5043:1X10" H 9825 3300 50  0001 C CNN
 F 3 "" H 9825 3300 50  0001 C CNN
 	1    9825 3300
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND018
@@ -749,7 +749,7 @@ F 1 "GND" H 9325 4000 59  0000 L BNN
 F 2 "" H 9425 4100 50  0001 C CNN
 F 3 "" H 9425 4100 50  0001 C CNN
 	1    9425 4100
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 $Comp
 L ax5243_eval-rescue:+3V3-AX5043 #+3V03
@@ -760,7 +760,7 @@ F 1 "+3V3" V 9325 2400 59  0000 L BNN
 F 2 "" H 9425 2600 50  0001 C CNN
 F 3 "" H 9425 2600 50  0001 C CNN
 	1    9425 2600
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Wire Wire Line
 	3300 4450 3400 4450
@@ -790,7 +790,7 @@ F 18 "yes" H 6725 6300 50  0001 L CNN "rohs"
 F 19 "+85°C" H 6725 6400 50  0001 L CNN "temperature range high"
 F 20 "-40°C" H 6725 6500 50  0001 L CNN "temperature range low"
 	1    6725 4300
-	-1   0    0    -1  
+	-1   0    0    -1
 $EndComp
 Wire Wire Line
 	5200 4250 5200 4300
@@ -809,7 +809,7 @@ F 1 "GND" H 5000 5400 59  0000 L BNN
 F 2 "" H 5100 5500 50  0001 C CNN
 F 3 "" H 5100 5500 50  0001 C CNN
 	1    5100 5500
-	0    1    1    0   
+	0    1    1    0
 $EndComp
 Wire Wire Line
 	5200 5500 5250 5500
@@ -829,7 +829,7 @@ F 1 "GND" H 6650 3700 59  0000 L BNN
 F 2 "" H 6750 3800 50  0001 C CNN
 F 3 "" H 6750 3800 50  0001 C CNN
 	1    6750 3800
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 $Comp
 L ax5243_eval-rescue:GND-AX5043 #GND0103
@@ -840,7 +840,7 @@ F 1 "GND" H 7075 3700 59  0000 L BNN
 F 2 "" H 7175 3800 50  0001 C CNN
 F 3 "" H 7175 3800 50  0001 C CNN
 	1    7175 3800
-	-1   0    0    1   
+	-1   0    0    1
 $EndComp
 Wire Wire Line
 	6625 4300 6750 4300
